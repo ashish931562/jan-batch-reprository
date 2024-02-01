@@ -1,0 +1,14 @@
+p{
+border-style:solid;
+border-color: aqua;
+}
+p{
+    border-style: dashed;
+}
+
+
+strong{
+border-style: double;
+border-color: brown;
+
+}

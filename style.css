@@ -1,0 +1,15 @@
+button{
+    background-color: aqua;
+   
+  }
+ .primary{
+    background-color:gold;
+    width: 100%;
+  }
+  p{
+    background-color: brown;
+  }
+  a[href="https://www.google.com"]{
+    background-color: blueviolet;
+  }
+  
